@@ -5,5 +5,20 @@
 
 Cas de Test | Resultats Escomptes | Resultats actuels | Verdict(Succes, Echec, Non-concluant) 
 --- | --- | --- | --- 
-Seconds | 301 | 283 | 290 
+1 | Acceptee | 283 | Succes 
+--- | --- | --- | --- 
+2 | Acceptee | 283 | Succes 
+--- | --- | --- | --- 
+3 | Acceptee | 283 | Succes
+--- | --- | --- | --- 
+4 | Acceptee | 283 | Succes
+--- | --- | --- | --- 
+5 | Err1 | Err1 et Err3 | Echec 
+--- | --- | --- | --- 
+6 | Err3 | Err1 et Err3 | Echec
+--- | --- | --- | --- 
+7 | Err3 | Err3 | Succes
+--- | --- | --- | --- 
+8 | Err1 | Err1 | Succes
+
 
