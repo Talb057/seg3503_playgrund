@@ -57,7 +57,7 @@ Test 8:
 ![test8](https://github.com/Talb057/seg3503_playgrund/assets/71707486/b161b7a1-7ebf-4e25-bad7-a25bc282e89b)
 
 Exercice 2:
-
+```bash
 neyzak@NeyzakPc:~/8-Summer 2023/SEG 3503/seg3503_playgrund/LAB 2/ecs/ecs$ bin/test
 
 Thanks for using JUnit! Support its development at https://junit.org/sponsoring
