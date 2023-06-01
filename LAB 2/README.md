@@ -15,3 +15,43 @@ Cas de Test | Resultats Escomptes | Resultats actuels | Verdict(Succes, Echec, N
 8 | Err1 | Err1 | Succes
 
 
+Test 1:
+
+![test1b](https://github.com/Talb057/seg3503_playgrund/assets/71707486/a8618949-902c-4d1d-a2ca-da0ddea44d32)
+![test1e](https://github.com/Talb057/seg3503_playgrund/assets/71707486/ff7f0b9f-c46a-4164-8fed-94ca7fafc44c)
+
+Test 2:
+
+![test2b](https://github.com/Talb057/seg3503_playgrund/assets/71707486/8296c360-baa7-4d2f-970f-d84542c1ac49)
+
+![test2e](https://github.com/Talb057/seg3503_playgrund/assets/71707486/8460ddd1-0f6a-4704-bfd1-8475e58252dd)
+
+Test 3:
+
+![test3b](https://github.com/Talb057/seg3503_playgrund/assets/71707486/02c2f648-3abf-44cf-9d8d-ea9cfbdafea4)
+
+![test3e](https://github.com/Talb057/seg3503_playgrund/assets/71707486/d7399c52-052d-4462-b0b5-f1bba227c42d)
+
+Test 4:
+
+![test4b](https://github.com/Talb057/seg3503_playgrund/assets/71707486/2e51e3b7-571f-485b-906f-497e5d380cc8)
+
+![test4e](https://github.com/Talb057/seg3503_playgrund/assets/71707486/19abe0c0-8e21-4d7f-9c7a-63d8bc01b293)
+
+Test 5:
+
+![test5](https://github.com/Talb057/seg3503_playgrund/assets/71707486/801f7393-9269-4cd0-991f-322020b37a2c)
+
+Test 6:
+
+![test6](https://github.com/Talb057/seg3503_playgrund/assets/71707486/e2712245-8f9e-4e75-a312-3848284131ac)
+
+Test 7:
+
+![test 7](https://github.com/Talb057/seg3503_playgrund/assets/71707486/74e23769-1962-45a1-9d9d-d44cd850045c)
+
+Test 8:
+
+![test8](https://github.com/Talb057/seg3503_playgrund/assets/71707486/b161b7a1-7ebf-4e25-bad7-a25bc282e89b)
+
+
