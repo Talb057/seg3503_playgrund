@@ -1,4 +1,6 @@
 
+Exercice 1:
+
 ![Localhost ss](https://github.com/Talb057/seg3503_playgrund/assets/71707486/652155ee-2e70-4e97-b638-6d75de0fcead)
 
 
@@ -54,4 +56,74 @@ Test 8:
 
 ![test8](https://github.com/Talb057/seg3503_playgrund/assets/71707486/b161b7a1-7ebf-4e25-bad7-a25bc282e89b)
 
+Exercice 2:
+
+neyzak@NeyzakPc:~/8-Summer 2023/SEG 3503/seg3503_playgrund/LAB 2/ecs/ecs$ bin/test
+
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+╷
+├─ JUnit Jupiter ✔
+│  ├─ DateTest ✔
+│  │  └─ nextDate_sample() ✔
+│  └─ BitTest ✔
+│     ├─ constructor_int_ok() ✔
+│     ├─ constructor_int_tooLarge() ✔
+│     ├─ constructor_int_tooSmall() ✔
+│     ├─ constructor_Bit() ✔
+│     ├─ hashCode_values() ✔
+│     ├─ getIntValue() ✔
+│     ├─ equals() ✔
+│     ├─ toString_values() ✔
+│     ├─ or() ✔
+│     ├─ and() ✔
+│     ├─ not() ✔
+│     ├─ xor() ✔
+│     ├─ setValue() ✔
+│     └─ constructor_default_0() ✔
+└─ JUnit Vintage ✔
+   ├─ BitAndTest ✔
+   │  ├─ [0] ✔
+   │  │  └─ testAnd[0] ✔
+   │  ├─ [1] ✔
+   │  │  └─ testAnd[1] ✔
+   │  ├─ [2] ✔
+   │  │  └─ testAnd[2] ✔
+   │  └─ [3] ✔
+   │     └─ testAnd[3] ✔
+   ├─ DateNextDateOkTest ✔
+   │  └─ initializationError ✘ day must less or equal to 31.
+   └─ DateNextDateExceptionTest ✔
+      ├─ [0] ✔
+      │  └─ testNextDateCorrect[0] ✘ Expected java.lang.IllegalArgumentException to be thrown, but nothing was thrown.
+      ├─ [1] ✔
+      │  └─ testNextDateCorrect[1] ✔
+      ├─ [2] ✔
+      │  └─ testNextDateCorrect[2] ✘ Expected java.lang.IllegalArgumentException to be thrown, but nothing was thrown.
+      ├─ [3] ✔
+      │  └─ testNextDateCorrect[3] ✘ Expected java.lang.IllegalArgumentException to be thrown, but nothing was thrown.
+      ├─ [4] ✔
+      │  └─ testNextDateCorrect[4] ✘ Expected java.lang.IllegalArgumentException to be thrown, but nothing was thrown.
+      ├─ [5] ✔
+      │  └─ testNextDateCorrect[5] ✔
+      ├─ [6] ✔
+      │  └─ testNextDateCorrect[6] ✔
+      ├─ [7] ✔
+      │  └─ testNextDateCorrect[7] ✔
+      └─ [8] ✔
+         └─ testNextDateCorrect[8] ✔
+
+Test run finished after 187 ms
+[        20 containers found      ]
+[         0 containers skipped    ]
+[        20 containers started    ]
+[         0 containers aborted    ]
+[        20 containers successful ]
+[         0 containers failed     ]
+[        29 tests found           ]
+[         0 tests skipped         ]
+[        29 tests started         ]
+[         0 tests aborted         ]
+[        24 tests successful      ]
+[         5 tests failed          ]
 
